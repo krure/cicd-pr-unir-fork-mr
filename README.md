@@ -11,9 +11,3 @@ Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows
 python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
-
-## Clonar 
-
-Se pueden descargar los archivos si se da clic al boton "Code" en la interfaz gráfica de GitHub o clonando usando "git clone https://github.com/angelmrayo-unir/cicd-pr-unir.git"
-  
-
