@@ -15,4 +15,5 @@ python3 main.py <filename> <dup>
 ## Clonar 
 
 Se pueden descargar los archivos si se da clic al boton "Code" en la interfaz gráfica de GitHub o clonando usando "git clone https://github.com/angelmrayo-unir/cicd-pr-unir.git"
+  
 
